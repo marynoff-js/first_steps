@@ -1,3 +1,5 @@
-function solve(){
-    console.log("First Steps in Programming")
+
+
+function codeAwesome(){
+    console.log("Coding is exciting")
 }
